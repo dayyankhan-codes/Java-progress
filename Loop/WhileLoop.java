@@ -1,4 +1,5 @@
-package WhileLoop;
+package Loop;
+
 public class WhileLoop {
 public static void main(String args[]) {
 int x = 10;
